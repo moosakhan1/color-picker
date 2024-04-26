@@ -1,0 +1,12 @@
+body{
+    margin: 0 auto;
+    margin-left: 40%;
+    margin-top: 8%;
+    color: #544949;
+    font-size: 20px;
+}
+
+#colorpicker{
+    width: 35.5%;
+    height: 30vh;
+}
